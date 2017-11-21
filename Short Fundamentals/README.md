@@ -12,18 +12,18 @@ Along with the programming techniques, the **algorithmic thinking** and **proble
 ![Start](https://img.shields.io/badge/Start-18.09.2017-blue.svg?style=flat-square) 
 ![End](https://img.shields.io/badge/End-05.11.2017-blue.svg?style=flat-square) 
 
-1. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/01.%20Resources" > Resources </a> 
-2. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/02.%20Overview" > Course overview </a> 
-3. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/03.%20Intro%20and%20basic%20syntax" > C# Intro and basic syntax </a>
-4. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/04.%20Statements%20and%20loops" > Statements and Loops </a>
-5. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/05.%20Git%20and%20Github" > Git and Github </a>
-6. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/06.%20Data%20types%20and%20variables" > Data types and variables </a>
-7. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/07.%20Methods.%20Debugging%20and%20Troubleshooting%20Code" > Methods. Debugging and Troubleshooting Code </a>
-8. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/08.%20Arrays" > Arrays </a>
-9. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/09.%20Lists" > Lists </a>
-10. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/10.%20Dictionaries%2C%20Lambda%20and%20LINQ" > Dictionaries, Lambda and LINQ </a>
-11. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/11.%20Objects%20and%20Classes" > Objects and Classes </a>
-12. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/12.%20Files%20And%20Exceptions" > Files and Exceptions </a>
-13. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/13.%20Strings%20and%20Text%20Processing" > Strings and Text Processing </a>
-14. <a href="https://github.com/quakeN/ProgrammingFundamentals_Sept2017/tree/master/14.%20Regular%20Expressions" > Regular Expressions </a>
+1. <a href="https://github.com/quakeN/Programming-Fundamentals/tree/master/Short%20Fundamentals/01.%20Resources" > Resources </a> 
+2. <a href="https://github.com/quakeN/Programming-Fundamentals/tree/master/Short%20Fundamentals/02.%20Overview" > Course overview </a> 
+3. <a href="https://github.com/quakeN/Programming-Fundamentals/tree/master/Short%20Fundamentals/03.%20Intro%20and%20basic%20syntax" > C# Intro and basic syntax </a>
+4. <a href="https://github.com/quakeN/Programming-Fundamentals/tree/master/Short%20Fundamentals/04.%20Statements%20and%20loops" > Statements and Loops </a>
+5. <a href="https://github.com/quakeN/Programming-Fundamentals/tree/master/Short%20Fundamentals/05.%20Git%20and%20Github" > Git and Github </a>
+6. <a href="https://github.com/quakeN/Programming-Fundamentals/tree/master/Short%20Fundamentals/06.%20Data%20types%20and%20variables" > Data types and variables </a>
+7. <a href="https://github.com/quakeN/Programming-Fundamentals/tree/master/Short%20Fundamentals/07.%20Methods.%20Debugging%20and%20Troubleshooting%20Code" > Methods. Debugging and Troubleshooting Code </a>
+8. <a href="https://github.com/quakeN/Programming-Fundamentals/tree/master/Short%20Fundamentals/08.%20Arrays" > Arrays </a>
+9. <a href="https://github.com/quakeN/Programming-Fundamentals/tree/master/Short%20Fundamentals/09.%20Lists" > Lists </a>
+10. <a href="https://github.com/quakeN/Programming-Fundamentals/tree/master/Short%20Fundamentals/10.%20Dictionaries%2C%20Lambda%20and%20LINQ" > Dictionaries, Lambda and LINQ </a>
+11. <a href="https://github.com/quakeN/Programming-Fundamentals/tree/master/Short%20Fundamentals/11.%20Objects%20and%20Classes" > Objects and Classes </a>
+12. <a href="https://github.com/quakeNProgramming-Fundamentals/tree/master/Short%20Fundamentals/12.%20Files%20And%20Exceptions" > Files and Exceptions </a>
+13. <a href="https://github.com/quakeN/Programming-Fundamentals/tree/master/Short%20Fundamentals/13.%20Strings%20and%20Text%20Processing" > Strings and Text Processing </a>
+14. <a href="https://github.com/quakeN/Programming-Fundamentals/tree/master/Short%20Fundamentals/14.%20Regular%20Expressions" > Regular Expressions </a>
 
