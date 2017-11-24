@@ -17,7 +17,7 @@
                 .Select(a => a.Value.Trim())
                 .ToArray();
 
-            Console.WriteLine(String.Join(", ", validPhones));
+            Console.WriteLine(string.Join(", ", validPhones));
         }
     }
 }
