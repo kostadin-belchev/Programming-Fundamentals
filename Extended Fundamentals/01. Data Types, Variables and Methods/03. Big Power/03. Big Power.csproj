@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{34DB99CE-19A8-44B1-8620-77E5A5CEBAA6}</ProjectGuid>
+    <ProjectGuid>{306DCE87-57DD-45C6-BC30-C72929BE40FC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_02.Real_Number_Types</RootNamespace>
-    <AssemblyName>_02.Real_Number_Types</AssemblyName>
+    <RootNamespace>_03.Big_Power</RootNamespace>
+    <AssemblyName>_03.Big_Power</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -34,6 +34,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />

@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Integer Types", "01. Integer Types\01. Integer Types.csproj", "{2A4BC2D7-F4C3-4E28-B94B-0A682A002AEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Real Number Types", "02. Real Number Types\02. Real Number Types.csproj", "{34DB99CE-19A8-44B1-8620-77E5A5CEBAA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Big Power", "03. Big Power\03. Big Power.csproj", "{306DCE87-57DD-45C6-BC30-C72929BE40FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2A4BC2D7-F4C3-4E28-B94B-0A682A002AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A4BC2D7-F4C3-4E28-B94B-0A682A002AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A4BC2D7-F4C3-4E28-B94B-0A682A002AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34DB99CE-19A8-44B1-8620-77E5A5CEBAA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DB99CE-19A8-44B1-8620-77E5A5CEBAA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DB99CE-19A8-44B1-8620-77E5A5CEBAA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DB99CE-19A8-44B1-8620-77E5A5CEBAA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{306DCE87-57DD-45C6-BC30-C72929BE40FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306DCE87-57DD-45C6-BC30-C72929BE40FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306DCE87-57DD-45C6-BC30-C72929BE40FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306DCE87-57DD-45C6-BC30-C72929BE40FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
